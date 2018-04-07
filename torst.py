@@ -19,7 +19,7 @@ def Banner():
 	   | $$|  $$$$$$/| $$      |  $$$$$$/ |  $$$$/|  
 	   |__/ \\______/ |__/       \\______/   \\___/   
 		    
-		                                  ''' + Style.RESET_ALL + '[' + Fore.YELLOW + '&' + Style.RESET_ALL + '''] Created by Root
+		                                  ''' + Style.RESET_ALL + '[' + Fore.YELLOW + '&' + Style.RESET_ALL + '''] Created by WongNdeso
 						                                                  	                                                                           
 		''' 
 
